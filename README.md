@@ -3,6 +3,7 @@
 
 A simple JavaScript calculator which will do basic math calculations easily. It has click as well as keyboard support.
 
+Try it [here](https://varshasathyaprakash.github.io/calculator/).
 ## Technologies Used
 
 - HTML
